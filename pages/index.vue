@@ -31,7 +31,11 @@ import Footer from "~/components/footer.vue";
         <a href="https://play.poissonrevived.xyz/" target="_blank" class="button">Web Browser (Flash Player)</a>
       </li>
       <li>
-        <a href="#" class="button disabled">macOS</a>
+        <a
+          href="https://github.com/PoissonRevived/Standalone/releases/download/v1.0.0/Poisson-v1.0.0-macOS.zip"
+          class="button"
+          >macOS</a
+        >
       </li>
     </ol>
   </article>
