@@ -7,7 +7,7 @@ import Footer from "~/components/footer.vue";
     <main>
       <header>
         <NuxtLink to="/">
-          <img aria-label="Poison Revived Logo" src="~/assets/logo.png" />
+          <img aria-label="Poisson Revived Logo" src="~/assets/logo.png" />
         </NuxtLink>
       </header>
 
