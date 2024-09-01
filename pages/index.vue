@@ -7,32 +7,32 @@ import Footer from "~/components/footer.vue";
     <header>
       <p class="text-align-center">
         Poisson Revived is a complete revival of Poisson. An early Prototype of Transformice which has been lost since
-        2011 but recently found by Taikohhh and iPedroLB.
+        2011 but recently found by Taikohhh and RaySollium99.
       </p>
     </header>
 
     <ol class="download-links">
       <li>
         <a
-          href="https://github.com/PoissonRevived/Standalone/releases/download/v1.0.0/Poisson-v1.0.0-Windows.exe"
+          href="https://github.com/PoissonRevived/Standalone/releases/download/v2.0.0/Poisson-v2.0.0-Windows.exe"
           class="button"
           >Windows (x86)</a
         >
       </li>
       <li>
         <a
-          href="https://github.com/PoissonRevived/Standalone/releases/download/v1.0.0/Poisson-v1.0.0-Linux.AppImage"
+          href="https://github.com/PoissonRevived/Standalone/releases/download/v2.0.0/Poisson-v2.0.0-Linux.AppImage"
           download
           class="button"
           >Linux (AppImage)</a
         >
       </li>
       <li>
-        <a href="https://play.poissonrevived.xyz/" target="_blank" class="button">Web Browser (Flash Player)</a>
+        <a href="https://play.poissonrevived.net/" target="_blank" class="button">Web Browser (Requires Flash Player)</a>
       </li>
       <li>
         <a
-          href="https://github.com/PoissonRevived/Standalone/releases/download/v1.0.0/Poisson-v1.0.0-macOS.zip"
+          href="https://github.com/PoissonRevived/Standalone/releases/download/v2.0.0/Poisson-v2.0.0-macOS.zip"
           class="button"
           >macOS</a
         >
