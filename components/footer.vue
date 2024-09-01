@@ -3,7 +3,7 @@
 <template>
   <footer>
     <p>
-      2023® <a href="https://ipedrolb.xyz/" target="_blank">iPedroLB</a> and
+      2024® <a href="https://raythefox.pw/" target="_blank">RaySollium99</a> and
       <a href="https://t.me/TaikoNHAC" target="_blank">Taikohhh</a>
     </p>
     <p>
@@ -11,7 +11,7 @@
       <a href="https://aragubas.github.io/" target="_blank">Aragubas</a>
     </p>
 
-    <p>Hosted by <a href="https://t.me/jungalho" target="_blank">jungalho</a></p>
+    <p>Hosted by <a href="https://itacloud.com.br" target="_blank">ITA Cloud</a> and <a href="https://trexion.com" target="_blank">Trexion</a></p>
   </footer>
 </template>
 
